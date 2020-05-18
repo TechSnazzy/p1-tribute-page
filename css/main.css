@@ -1,0 +1,13 @@
+#main {
+  background: pink;
+  font-family: sans-serif;
+  margin: 0 auto;
+  width: 800px;
+}
+
+#image {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  text-align: center;
+}
