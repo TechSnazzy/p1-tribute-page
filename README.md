@@ -1,3 +1,13 @@
-# Free Code Camp: Responsive Tribute Page
+# Tribute Page
 
-This is the first of several projects for the Free Code Camp responsive web developer lessons.
+A responsive tribute page for Darth Vader, built with a CSS grid layout.
+
+**Live demo:** https://techsnazzy.github.io/p1-tribute-page/
+
+## Tech
+
+Plain HTML/CSS. Uses FreeCodeCamp's test bundle for their in-browser test suite.
+
+## Origin
+
+Built as the first project in FreeCodeCamp's Responsive Web Design curriculum.
